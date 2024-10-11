@@ -36,6 +36,10 @@ codecs
 .cmake
 CMakeFiles
 thirdparty
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+CMakeCache.txt
 
 # cpp build linux
 cppbuild/CMakeCache.txt
